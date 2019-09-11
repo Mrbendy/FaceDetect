@@ -1,0 +1,7 @@
+arguments: D:/facenet-master/src/align_dataset_mtcnn.py data\images data\images_160 --image_size 160 --margin 32 --random_order
+--------------------
+tensorflow version: 1.7.0
+--------------------
+git hash: b''
+--------------------
+b''

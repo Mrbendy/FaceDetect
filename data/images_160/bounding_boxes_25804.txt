@@ -1,0 +1,1 @@
+data\images_160\test\test.png 257 323 444 480

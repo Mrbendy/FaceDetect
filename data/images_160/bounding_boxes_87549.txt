@@ -1,0 +1,2 @@
+data\images_160\test\test35.png 230 194 427 450
+data\images_160\test\test120.png 238 163 425 408

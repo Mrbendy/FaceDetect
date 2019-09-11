@@ -1,0 +1,2 @@
+data\images_160\anthony\Anthony_Hopkins_0002.png 56 46 186 204
+data\images_160\anthony\Anthony_Hopkins_0001.png 57 46 190 213
